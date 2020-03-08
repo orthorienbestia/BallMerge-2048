@@ -4,5 +4,5 @@ using UnityEngine;
 
 public class GameConfig 
 {
-    public static float sizeMultiplier = 0.3f;
+    public static float sizeMultiplier = 0.06f;
 }

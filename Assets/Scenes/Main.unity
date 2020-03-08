@@ -564,10 +564,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cd9f44d25547e370689c91f2ef37b768, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _ballPrefab: {fileID: 3346730453428833227, guid: be19927f88bc372ac9620aaaed4adea7,
+  _ballPrefab: {fileID: 3346730453428833227, guid: 26fb4ffb27166b7e4993d55ef7c9a9c2,
     type: 3}
   _spawnPoint: {fileID: 2035266562}
-  delay: 0.5
+  delay: 0.1
+  _count: 1
+  ballsList: []
 --- !u!1 &1528148072
 GameObject:
   m_ObjectHideFlags: 0
